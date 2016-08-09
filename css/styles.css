@@ -1,0 +1,48 @@
+.initial-showing {
+  display: none;
+}
+
+.clickable1 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable1:hover {
+  text-decoration: underline;
+}
+.initial-showingjs {
+  display: none;
+}
+.initial-showingop {
+  display: none;
+}
+.initial-showingvar {
+  display: none;
+}
+.initial-showingfunc {
+  display: none;
+}
+.clickable2 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable2:hover {
+  text-decoration: underline;
+}
+.clickable3 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable3:hover {
+  text-decoration: underline;
+}
+.clickable4 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable4:hover {
+  text-decoration: underline;
+}
