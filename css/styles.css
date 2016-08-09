@@ -1,4 +1,13 @@
-.initial-showing {
+.col-md-3 {
+  border-style: solid;
+  border-color: #000;
+  padding: 50px;
+}
+
+.initial-showingpar {
+  display: none;
+}
+.initial-showingre {
   display: none;
 }
 
@@ -10,13 +19,27 @@
 .clickable1:hover {
   text-decoration: underline;
 }
+.clickable8 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable8:hover {
+  text-decoration: underline;
+}
 .initial-showingjs {
+  display: none;
+}
+.initial-showingme {
   display: none;
 }
 .initial-showingop {
   display: none;
 }
 .initial-showingvar {
+  display: none;
+}
+.initial-showingar {
   display: none;
 }
 .initial-showingfunc {
@@ -44,5 +67,151 @@
 }
 
 .clickable4:hover {
+  text-decoration: underline;
+}
+
+.definitions{
+  text-align: center;
+}
+h1{
+  text-align: center;
+}
+h4{
+  text-align: center;
+}
+.clickable5 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable5:hover {
+  text-decoration: underline;
+}
+.clickable6 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable6:hover {
+  text-decoration: underline;
+}
+.clickable7 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable7:hover {
+  text-decoration: underline;
+}
+
+.initial-showingcm {
+  display: none;
+}
+.initial-showingstr {
+  display: none;
+}
+.initial-showingboo {
+  display: none;
+}
+.initial-showingund {
+  display: none;
+}
+.initial-showingnan {
+  display: none;
+}
+.initial-showingesc {
+  display: none;
+}
+.initial-showingale {
+  display: none;
+}
+.initial-showingcom {
+  display: none;
+}
+.initial-showingjq {
+  display: none;
+}
+.initial-showingatt {
+  display: none;
+}
+
+.clickable9 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable9:hover {
+  text-decoration: underline;
+}
+.clickable10 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable10:hover {
+  text-decoration: underline;
+}
+.clickable11 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable11:hover {
+  text-decoration: underline;
+}
+.clickable12 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable12:hover {
+  text-decoration: underline;
+}
+.clickable13 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable13:hover {
+  text-decoration: underline;
+}
+.clickable14 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable14:hover {
+  text-decoration: underline;
+}
+.clickable15 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable15:hover {
+  text-decoration: underline;
+}
+.clickable16 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable16:hover {
+  text-decoration: underline;
+}
+.clickable17 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable17:hover {
+  text-decoration: underline;
+}
+.clickable18 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable18:hover {
   text-decoration: underline;
 }
